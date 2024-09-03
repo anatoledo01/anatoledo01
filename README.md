@@ -4,9 +4,9 @@
 <div align="center">
    <table>
       <tr>        
-         <td>🙋🏾‍♀️ 19 anos</td>
+         <td>🙋🏾‍♀️ 20 anos</td>
          <td>👩🏾‍💻 Cursando ADS</td>
-         <td>🎓 Fatec MC- 4/6</td>
+         <td>🎓 Fatec MC- 5/6</td>
       </tr>
    </table>
 </div>
