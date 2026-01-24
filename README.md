@@ -6,7 +6,7 @@
       <tr>        
          <td>🙋🏾‍♀️ 21 anos</td>
          <td>👩🏾‍💻 Cursando ADS</td>
-         <td>🎓 Fatec MC- 5/6</td>
+         <td>🐞 Quality Analyst</td>
       </tr>
    </table>
 </div>
