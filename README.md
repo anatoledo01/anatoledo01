@@ -18,8 +18,6 @@
 
 <br>
 
-![Ana Toledo GitHub stats](https://github-readme-stats.vercel.app/api?username=anatoledo01&show_icons=true&theme=radical&cache_seconds=1800)
-
 <br>
 
 Apaixonada por tecnologia e com o propósito de mudar a vida das pessoas através da programação.
