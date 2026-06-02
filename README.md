@@ -7,7 +7,7 @@
       <tr>        
          <td>🙋🏾‍♀️ 21 anos</td>
          <td>👩🏾‍💻 Cursando ADS</td>
-         <td>🐞 Quality Analyst</td>
+         <td>💻 Full Stack Developer</td>
       </tr>
    </table>
 </div>
