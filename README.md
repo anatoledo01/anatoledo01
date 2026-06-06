@@ -25,10 +25,6 @@
 
 </div>
 
-<div align="center" width="100%">
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=Olá!+Eu+sou+a+Ana+Beatriz;Desenvolvedora+Full+Stack;Next.js+%7C+Node.js+%7C+TypeScript;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo+e+criando+novas+soluções!" alt="Typing SVG"/>
-</div>
 <br>
 
 <div align="center">
