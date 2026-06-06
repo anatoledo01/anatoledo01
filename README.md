@@ -1,18 +1,101 @@
-# 💫 About Me:
-<br>* 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)<br>* 💻 Desenvolvedora Web<br>* ⚛️ Experiência com Next.js, Node.js e TypeScript<br>* 🗄️ Conhecimentos em bancos de dados SQL<br>* 🧪 Experiência com qualidade de software e testes<br>* 📊 Conhecimentos em Power BI e análise de dados<br>* 📚 Sempre aprendendo novas tecnologias e boas práticas de desenvolvimento<br>* ♟️ Campeã Estadual de Xadrez (2019)<br>* 🏆 Campeã Regional de Xadrez (2023)<br>* 🤝 Apaixonada por tecnologia, resolução de problemas e trabalho em equipe<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anatoledox) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ana-beatriz-toledo-2a10542b8) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@toledodev) 
+<br>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anatoledo01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=anatoledo01&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anatoledo01&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=7c3aed&section=header"/>
+</div>
 
----
-[![](https://komarev.com/ghpvc/?username=anatoledo01&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+ <b>「 Full Stack Developer 」</b>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
+ <div align="center">
+
+### 🚀 Sobre mim
+
+🎓 Estudante de ADS
+
+💻 Desenvolvedora Full Stack
+
+⚛️ Next.js • Node.js • TypeScript
+
+🗄️ SQL • PostgreSQL
+
+</div>
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f8418b&width=900&size=22&center=true&lines=Olá!+Eu+sou+a+Ana+Beatriz;Desenvolvedora+Full+Stack;Next.js+%7C+Node.js+%7C+TypeScript;Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Sempre+aprendendo+e+criando+novas+soluções!" alt="Typing SVG"/>
+</div>
+<br>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/ToledoDev-8A2BE2?style=for-the-badge" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anatoledo01&layout=compact&theme=radical">
+  
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=anatoledo01&layout=compact&theme=radical&count_private=true">
+  
+  <img align="center" alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anatoledo01&theme=radical"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+<img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg">
+
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>Mais Informações</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Entre em contato:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-beatriz-toledo-2a10542b8/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anatoledox)
+  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@toledodev)
+
+</div>
+
+<div align="center">
+  <samp>
+    💜 Next.js ⊹ Node.js ⊹ TypeScript ⊹ ToledoDev 💜
+  </samp>
+</div>
+
+<br>
+</details>
